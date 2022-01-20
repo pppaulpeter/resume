@@ -5,7 +5,7 @@ body {
     margin: auto;
 }
 h1 {
-    font-size: 3em;
+    font-size: 2em;
     letter-spacing: .6em;
     padding-top: 1em;
     padding-bottom: 1em;
@@ -36,7 +36,11 @@ i {
 }
 
 p {
+    
+    font-size: 1.5em;
     margin: .2em auto
+    
+    
 }
 
 hr {
